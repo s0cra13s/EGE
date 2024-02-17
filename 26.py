@@ -1,3 +1,5 @@
+#не финальный вариан!
+
 f = open('26.txt')
 S, N = f.readline().split()
 S = int(S)
